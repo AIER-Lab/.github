@@ -1,1 +1,1 @@
-# .github
+# EAIR: Energy AI Research Lab
