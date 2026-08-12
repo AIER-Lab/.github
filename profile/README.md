@@ -1,1 +1,2 @@
-## Hi there 👋
+## AIER: AI & Energy Research Lab
+
