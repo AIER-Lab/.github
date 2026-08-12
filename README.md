@@ -1,1 +1,1 @@
-# EAIR: Energy AI Research Lab
+# AIER: AI & Energy Research Lab
